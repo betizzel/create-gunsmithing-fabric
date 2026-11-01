@@ -1,0 +1,24 @@
+version = '1.4.4+fabric.1.20.1'
+
+base {
+    archivesName = 'create-gunsmithing'
+}
+
+apply from: rootProject.file('gradle/create-fabric.gradle')
+
+// Forge data generators are build-time tools; their generated recipes and
+// other resources remain included below.
+sourceSets.main.java {
+    exclude 'com/nukateam/cgs/common/datagen/providers/**'
+    exclude 'com/nukateam/cgs/common/datagen/loot/**'
+    exclude 'com/nukateam/cgs/common/datagen/util/**'
+    exclude 'com/nukateam/cgs/common/datagen/DataGenerators.java'
+}
+
+sourceSets.main.resources.srcDir 'src/generated/resources'
+
+dependencies {
+    implementation project(path: ':ntgl', configuration: 'namedElements')
+    modImplementation 'software.bernie.geckolib:geckolib-fabric-1.20.1:4.8.2'
+    implementation 'com.eliotlash.mclib:mclib:20'
+}

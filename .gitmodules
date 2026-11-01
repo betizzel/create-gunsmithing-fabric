@@ -1,0 +1,3 @@
+[submodule "dependencies/ntgl"]
+	path = dependencies/ntgl
+	url = https://github.com/betizzel/ntgl-fabric.git

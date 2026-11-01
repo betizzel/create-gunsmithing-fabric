@@ -1,0 +1,21 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["createoreexcavation"]
+    }
+  ],
+  "type": "createoreexcavation:drilling",
+  "drill": {
+    "tag": "createoreexcavation:drills"
+  },
+  "output": [
+    {
+      "item": "cgs:raw_lead"
+    }
+  ],
+  "priority": 0,
+  "stress": 256,
+  "ticks": 600,
+  "vein_id": "cgs:ore_vein_type/lead"
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "cgs:lead_ore",
+    "cgs:deepslate_lead_ore",
+    "cgs:raw_lead_block",
+    "cgs:lead_block",
+    "cgs:steel_block",
+    "cgs:sulfur_ore",
+    "cgs:guano_block"
+  ]
+}

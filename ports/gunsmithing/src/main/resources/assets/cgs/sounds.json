@@ -1,0 +1,173 @@
+{
+   "gun.gatling.fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/gatling/fire/fire_02"},
+      { "name": "cgs:gun/gatling/fire/fire_03"},
+      { "name": "cgs:gun/gatling/fire/fire_05"}
+   ]},
+
+   "gun.gatling.reload_mag_in": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/gatling/reload/reload_mag_in" }
+   ]},
+
+   "gun.gatling.reload_mag_out": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/gatling/reload/reload_mag_out" }
+   ]},
+
+   "gun.revolver.fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/revolver/fire/fire_01"},
+      { "name": "cgs:gun/revolver/fire/fire_02"},
+      { "name": "cgs:gun/revolver/fire/fire_03"}
+   ]},
+
+   "gun.revolver.chamber_open": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/revolver/reload/chamber_open" }
+   ]},
+   "gun.revolver.chamber_close": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/revolver/reload/chamber_close" }
+   ]},
+   "gun.revolver.rounds_in": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/revolver/reload/rounds_in" }
+   ]},
+   "gun.revolver.rounds_out": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/revolver/reload/rounds_out" }
+   ]},
+
+   "gun.shotgun.fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/shotgun/fire/fire_01" , "volume": 40.0},
+      { "name": "cgs:gun/shotgun/fire/fire_02" , "volume": 40.0},
+      { "name": "cgs:gun/shotgun/fire/fire_03" , "volume": 40.0}
+   ]},
+
+   "gun.shotgun.close": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/shotgun/reload/close" }
+   ]},
+
+   "gun.shotgun.open": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/shotgun/reload/open" }
+   ]},
+
+   "gun.shotgun.round_in": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/shotgun/reload/round_in", "volume": 1.55 }
+   ]},
+
+   "gun.shotgun.lever": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/shotgun/reload/lever" }
+   ]},
+
+   "gun.nailgun.fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/nailgun/fire/fire", "volume": 0.7  }
+   ]},
+
+   "gun.nailgun.fire_steam": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/nailgun/fire/fire_01" },
+      { "name": "cgs:gun/nailgun/fire/fire_02" },
+      { "name": "cgs:gun/nailgun/fire/fire_03" }
+   ]},
+
+   "gun.nailgun.mag_in": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/nailgun/reload/mag_in" }
+   ]},
+
+   "gun.nailgun.mag_out": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/nailgun/reload/mag_out" }
+   ]},
+
+   "gun.flintlock.fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/flintlock/fire/fire_01", "volume": 1.55 },
+      { "name": "cgs:gun/flintlock/fire/fire_02", "volume": 1.55 },
+      { "name": "cgs:gun/flintlock/fire/fire_03", "volume": 1.55 }
+   ]},
+
+   "gun.flintlock.ammo_in": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/flintlock/reload/ammo_in"}
+   ]},
+
+   "gun.flintlock.reload": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/flintlock/reload/reload"}
+   ]},
+
+   "gun.flintlock.cock": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/flintlock/reload/cock" }
+   ]},
+
+   "gun.flintlock.ramrod": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/flintlock/reload/ramrod" }
+   ]},
+
+   "gun.launcher.fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/fire" }
+   ]},
+
+   "gun.launcher.ballista_fire": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/ballista_fire" }
+   ]},
+
+   "gun.launcher.boltopen": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/boltopen" }
+   ]},
+
+   "gun.launcher.equip": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/equip" }
+   ]},
+
+   "gun.launcher.magin": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/magin" }
+   ]},
+
+   "gun.launcher.magin_mini": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/magin_mini" }
+   ]},
+
+   "gun.launcher.magout": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/magout" }
+   ]},
+
+   "gun.launcher.magout_mini": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/launcher/magout_mini" }
+   ]},
+
+
+   "gun.grenade.pin": { "subtitle": "subtitle.ntgl.cock", "sounds": [
+      { "name": "cgs:gun/grenade/pin" }
+   ]},
+
+   "gun.grenade.throw": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/grenade/throw" }
+   ]},
+
+   "gun.hammer.boltclose": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/boltclose" }
+   ]},
+
+   "gun.hammer.boltopen": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/boltopen" }
+   ]},
+
+   "gun.hammer.magin": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/magin" }
+   ]},
+
+   "gun.hammer.magout": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/magin" }
+   ]},
+
+   "gun.hammer.reload": { "subtitle": "subtitle.ntgl.reload", "sounds": [
+      { "name": "cgs:gun/hammer/reload" }
+   ]},
+
+   "gun.hammer.shot": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/shot" }
+   ]},
+
+   "gun.hammer.equip": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/equip" }
+   ]},
+
+   "gun.hammer.swing_start": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/swing_start" , "volume": 5.0}
+   ]},
+
+   "gun.hammer.swing_end": { "subtitle": "subtitle.ntgl.fire", "sounds": [
+      { "name": "cgs:gun/hammer/swing_end", "volume": 5.0}
+   ]}
+}

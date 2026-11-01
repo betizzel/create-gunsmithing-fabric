@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "tag": "forge:stone"
+    }
+  },
+  "pattern": [
+    "BB",
+    "BB",
+    "B "
+  ],
+  "result": {
+    "item": "cgs:axe_stone"
+  },
+  "show_notification": true
+}

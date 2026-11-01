@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "L": {
+      "tag": "forge:plates/brass"
+    }
+  },
+  "pattern": [
+    "IIL",
+    " II"
+  ],
+  "result": {
+    "item": "cgs:big_bayonet"
+  },
+  "show_notification": true
+}

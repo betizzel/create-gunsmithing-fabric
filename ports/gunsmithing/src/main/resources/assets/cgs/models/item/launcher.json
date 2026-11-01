@@ -1,0 +1,99 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    256,
+    256
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        -5.25,
+        2.75
+      ],
+      "scale": [
+        0.88281,
+        0.88281,
+        0.88281
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -5.25,
+        2.75
+      ],
+      "scale": [
+        0.88281,
+        0.88281,
+        0.88281
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        -1.75,
+        1.25
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        -1.75,
+        1.25
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -3.25,
+        -5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -152.15999999999985,
+        49.51999999999998,
+        177.19999999999982
+      ],
+      "translation": [
+        -2.5,
+        -9,
+        0
+      ],
+      "scale": [
+        0.533204375,
+        0.533204375,
+        0.533204375
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        -9.75,
+        -5.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        4,
+        -8,
+        0
+      ],
+      "scale": [
+        0.79102,
+        0.79102,
+        0.79102
+      ]
+    }
+  },
+  "textures": {
+    "particle": "cgs:weapons/launcher/launcher"
+  }
+}

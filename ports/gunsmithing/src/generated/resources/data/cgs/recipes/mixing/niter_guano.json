@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "cgs:guano"
+    },
+    {
+      "amount": 20250,
+      "fluid": "minecraft:water",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "cgs:niter"
+    },
+    {
+      "chance": 0.75,
+      "item": "minecraft:bone_meal"
+    }
+  ]
+}

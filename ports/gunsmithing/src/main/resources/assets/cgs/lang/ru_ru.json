@@ -1,0 +1,127 @@
+{
+  "itemGroup.mod_items": "Create: Gunsmithing",
+
+  "info.cgs.fuel": "ПКМ по оружию топливом чтобы заправить его",
+
+  "slot.cgs.attachment.engine": "Двигатель",
+  "slot.cgs.attachment.frame": "Основа",
+  "slot.cgs.attachment.chamber": "Патронник",
+  "slot.cgs.attachment.head": "Наконечник",
+
+  "info.cgs.air": "Воздух",
+  "info.cgs.burnable": "Горючее",
+  "info.cgs.water": "Вода",
+
+  "item.cgs.flintlock": "Самопал",
+  "item.cgs.revolver" : "Револьвер",
+  "item.cgs.shotgun"  : "Дробовик",
+  "item.cgs.nailgun"  : "Гвоздемёт",
+  "item.cgs.gatling"  : "Гатлинг",
+  "item.cgs.blazegun": "Всполохомёт",
+  "item.cgs.launcher": "Ракетница",
+  "item.cgs.hammer": "Пневмомолот",
+  "item.cgs.axe": "Пневмотопор",
+  "item.cgs.frag_grenade": "Осколочная граната",
+
+  "item.cgs.barrel": "Ствол",
+  "item.cgs.barrel_sturdy": "Укреплённый ствол",
+
+  "item.cgs.press_form_gatling": "Пресс форма гильзы гатлинга",
+  "item.cgs.press_form_revolver": "Пресс форма гильзы револьвера",
+  "item.cgs.press_form_shotgun": "Пресс форма гильзы дробовика",
+
+  "item.cgs.shell_gatling"    : "Гильза гатлинга",
+  "item.cgs.shell_revolver"   : "Гильза револьвера",
+  "item.cgs.shell_shotgun": "Гильза дробовика",
+
+  "item.cgs.round_gatling_blank": "Холостой патрон гатлинга",
+  "item.cgs.round_gatling"      : "Патрон гатлинга",
+  "item.cgs.round_gatling_piercing": "Бронебойный патрон гатлинга",
+
+  "item.cgs.round_revolver_blank": "Холостой патрон револьвера",
+  "item.cgs.round_revolver"     : "Патрон револьвера",
+  "item.cgs.round_revolver_piercing": "Бронебойный патрон револьвера",
+
+  "item.cgs.round_shotgun_blank": "Холостой патрон дробовика",
+  "item.cgs.round_shotgun"  : "Патрон дробовика",
+  "item.cgs.round_shotgun_incendiary": "Зажигательный патрон дробовика",
+  "item.cgs.round_shotgun_flechette": "Патрон дробовика c флешеттами",
+  "item.cgs.round_shotgun_flechette_steel": "Патрон дробовика cо стальными флешеттами",
+
+  "item.cgs.lead_balls": "Картечь",
+  "item.cgs.paper_cartridge": "Бумажный патрон",
+  "item.cgs.paper_shot": "Бумажный патрон с картечью",
+  "item.cgs.nail"      : "Гвоздь",
+  "item.cgs.nail_steel": "Стальной гвоздь",
+
+  "item.cgs.steam_engine" : "Паровой двигатель",
+  "item.cgs.scope"        : "Оптический прицел",
+  "item.cgs.stock"        : "Приклад",
+
+  "item.cgs.iron_sight"   : "Гатлинг: Прицел",
+  "item.cgs.gatling_drum" : "Гатлинг: Барабанный Магазин",
+
+  "item.cgs.round_belt": "Револьвер: Патронная лента",
+  "item.cgs.auto_fire": "Револьвер: Авто огонь",
+  "item.cgs.long_barrel": "Револьвер: Длинный ствол",
+  "item.cgs.bayonet": "Штык",
+  "item.cgs.big_bayonet": "Большой штык",
+
+  "item.cgs.shotgun_drum": "Дробовик: Барабаны",
+  "item.cgs.shotgun_pump": "Дробовик: Автоматический зарядник",
+  "item.cgs.shotgun_long_barrel": "Дробовик: Длинные стволы",
+  "item.cgs.shotgun_spread_barrel": "Дробовик: Рассеивающие стволы",
+
+  "item.cgs.nailgun_splitter": "Гвоздемёт: Разделяющий ствол",
+
+  "item.cgs.potion_tank": "Резервуар для зелий",
+
+  "item.cgs.launcher_auto": "Авто лаунчер",
+  "item.cgs.ballistazooka": "Баллистазука",
+  "item.cgs.launcher_hook": "Пневмокрюк",
+  "item.cgs.item_launcher": "Предметомёт",
+
+  "item.cgs.flintlock_long_barrel": "Кремневый пистолет: Длинный ствол",
+  "item.cgs.flintlock_mortar_barrel": "Кремневый пистолет: Ствол мортиры",
+
+  "item.cgs.hammer_chamber": "Молот: Патронник",
+  "item.cgs.hammer_stone": "Каменная головка молота",
+  "item.cgs.hammer_iron": "Железная головка молота",
+  "item.cgs.hammer_diamond": "Алмазная головка молота",
+  "item.cgs.hammer_netherite": "Незеритовая головка молота",
+  "item.cgs.axe_stone": "Каменная головка топора",
+  "item.cgs.axe_iron": "Железная головка топора",
+  "item.cgs.axe_diamond": "Алмазная головка топора",
+  "item.cgs.axe_netherite": "Незеритовая головка топора",
+
+  "item.cgs.rocket": "Ракета",
+  "item.cgs.rocket_small": "Маленькая ракета",
+  "item.cgs.spear": "Копье",
+
+  "item.cgs.raw_lead": "Рудный свинец",
+  "item.cgs.lead_ingot": "Свинцовый слиток",
+  "item.cgs.lead_nugget": "Кусочек свинца",
+  "item.cgs.steel_ingot": "Стальной слиток",
+  "item.cgs.steel_nugget": "Кусочек стали",
+  "item.cgs.steel_sheet": "Стальная пластина",
+
+  "item.cgs.guano"  : "Гуано",
+  "item.cgs.niter"  : "Селитра",
+  "item.cgs.sulfur" : "Сера",
+  "item.cgs.charcoal_dust": "Пыль древесного угля",
+
+  "block.cgs.lead_ore": "Свинцовая руда",
+  "block.cgs.deepslate_lead_ore": "Свинцовоносный глубинный сланец",
+  "block.cgs.sulfur_ore": "Серная руда",
+  "block.cgs.lead_block": "Блок свинца",
+  "block.cgs.raw_lead_block": "Блок рудного свинца",
+  "block.cgs.steel_block": "Блок Стали",
+
+  "item.cgs.tank_empty": "Жидкостный контейнер",
+  "item.cgs.tank_water": "Контейнер с водой",
+  "item.cgs.tank_lava": "Контейнер с лавой",
+
+  "item.cgs.blunderbuss_barrel": "Ствол мушкетона",
+  "item.cgs.blunderbuss_barrel_long": "Длинный ствол мушкетона",
+  "item.cgs.flintlock_chambers": "Многозарядные камеры"
+}
